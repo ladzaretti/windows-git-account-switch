@@ -1,6 +1,6 @@
 # Github user switching script for windows powershell
-> This script is swiching users via changing
-> git's global config and window certificate manager entry.
+> This script is used for switching github users. <br>
+> Done via changing git's global config and the corresponding window certificate manager entry.
 
 
 
