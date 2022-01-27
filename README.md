@@ -19,9 +19,9 @@
     New-Item -ItemType File -Path $PROFILE -Force
 } <br>
   [Source - Microsoft Powershell docs.](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.2)
-  - Add the contant of proflie.ps1 to your profile script.
+- Add the contant of proflie.ps1 to your profile script.
       >Make sure to fill the path & alias placeholders.
-  - Use your newly created Alias in PowerShell to switch acounts.
+- Use your newly created Alias in PowerShell to switch acounts.
 
 
 
